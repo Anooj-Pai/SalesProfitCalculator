@@ -2,7 +2,7 @@
   "name": "profitcalculator",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://anooj-pai.github.io/",
+  "homepage": "https://anooj-pai.github.io/SalesProfitCalculator",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
